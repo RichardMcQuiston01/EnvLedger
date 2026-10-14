@@ -1,4 +1,8 @@
-# Project Title
+# EnvLedger
+
+```
+Your .env history, encrypted and in sync. Push on one machine, pull on the other.
+```
 
 - Author: [Richard McQuiston](mailto:richard.mcquiston@gmail.com)
 - Website: https://richardmcquiston.com/
@@ -8,6 +12,8 @@
 | [Overview](#overview) | [Getting Started](#getting-started) | [Buy Me a Coffee](#buy-me-a-coffee) | [License](#license) | [Copyright](#copyright) |
 
 ## Overview
+
+Encrypted, versioned sync for .env files across your machines via a shared folder (OneDrive, NAS, SMB). Local-first, no server or account.
 
 [Back to Top](#table-of-contents)
 
